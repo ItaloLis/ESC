@@ -1,0 +1,6 @@
+//princípio da alteração do main do fracrion
+
+var int num, den;
+	  let num = Keyboard.readInt("Digite o numerador: ");
+	  let den = Keyboard.readInt("Digite o denominador: ");
+	  let a = Fraction.new(
